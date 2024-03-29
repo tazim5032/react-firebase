@@ -14,28 +14,28 @@ Before getting started, make sure you have the following installed:
 
 1. **Visit console.firebase.google.com**
 
-2. Create a project (skip google analytic for biginner)
+2. **Create a project (skip google analytic for biginner)**
 
-3. Register App(Create config)
+3. **Register App(Create config)**
 
-4. Run install firebase in your project path cmd promft
+4. **Run install firebase in your project path cmd promft**
 
-5. Add config file to your project
+5. **Add config file to your project**
 
-6. Do not publish or make firebase config to public by pushing those to Github.
+6. **Do not publish or make firebase config to public by pushing those to Github**
 
-7. Go to Docs -> Build -> Authentication -> Web from firebase site
+7. **Go to Docs -> Build -> Authentication -> Web from firebase site**
 
-8. Export App from the firebase.config.js
+8. **Export App from the firebase.config.js**
 
-9. In your Login.jsx file:
+9. **In your Login.jsx file:**
 
     i. Import getauth form firebase/auth
     ii. Create const auth = getAuth(app)
     iii. Import googleAuthProvider and create a new provider
     iv. USe singInWithPopUp and pass auth and provider
 
-10. Activate singIn method from console.firebase.google.com
+10. **Activate singIn method from console.firebase.google.com**
 
 ## Contributing
 
