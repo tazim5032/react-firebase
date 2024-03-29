@@ -60,5 +60,4 @@ If you have any questions or need further assistance, feel free to reach out:
 
 - Email: mfittazim22@gmail.com
 
-Happy Reading!
 Happy coding! 🚀
