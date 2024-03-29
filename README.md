@@ -12,7 +12,7 @@ Before getting started, make sure you have the following installed:
 
 ## Getting Started
 
-1. Visit console.firebase.google.com
+1.** Visit console.firebase.google.com**
 
 2. Create a project (skip google analytic for biginner)
 
